@@ -6,9 +6,9 @@ Desarrollador Web
 
 Apasionado de la tecnología y de la programación. Aprendiendo algo nuevo cada día y mejorando mis habilidades como desarrollador.
 
-* 🌍  I'm based in Madrid
-* 🧠  I'm learning Angular, PHP, JavaScript, BootStrap, Spring
-* ⚡  Voy a ser bueno en esto...Sure!!
+* 🌍  Vido en Madrid
+* 🧠  Estoy aprendiendo Angular, PHP, JavaScript, BootStrap, Spring
+* ⚡  Con fuerza y paso a paso...Sure!!
 
 ### Skills
 
