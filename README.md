@@ -6,8 +6,8 @@ Desarrollador Web
 
 Apasionado de la tecnología y de la programación. Aprendiendo algo nuevo cada día y mejorando mis habilidades como desarrollador.
 
-* 🌍  Vido en Madrid
-* 🧠  Estoy aprendiendo Angular, PHP, JavaScript, BootStrap, Spring
+* 🌍  Vivo en Madrid
+* 🧠  Estoy aprendiendo Java, Angular, PHP, JavaScript, BootStrap, Spring, Docker
 * ⚡  Con fuerza y paso a paso...Sure!!
 
 ### Skills
